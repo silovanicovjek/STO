@@ -1,0 +1,2 @@
+alias _TB "+TrayExecByTrayWithBackup {}"
+alias _TRAY "_TB {} 9 {} 8$$_TB {} 7 {} 6$$_TB {} 5 {} 4$$_TB {} 3 {} 2$$_TB {} 1 {} 0"
